@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
     <a href="https://github.com/Solaris17" style="width: 100%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Solaris17&show_icons=true&theme=radical" alt="" height="160px"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solaris17&layout=compact&theme=radical&langs_count=6" alt="" height="160px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Solaris17&show_icons=true&theme=tokyonight" alt="" height="160px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solaris17&layout=compact&theme=tokyonight&langs_count=6" alt="" height="160px"/>
     </a>
 </p>
