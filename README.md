@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Solaris17/Solaris17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ### Hi there 👋
 -->
 <p align="center">
     <a href="https://github.com/Solaris17" style="width: 100%">
